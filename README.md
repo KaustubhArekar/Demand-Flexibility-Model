@@ -5,8 +5,8 @@ Simulation tool for assessing the techno-feasibility of demand flexibility integ
 Google drive link for input data - https://drive.google.com/drive/folders/1Rc1nsgIuWeA9pfA920qm532xgv4gPAn5?usp=drive_link
 
 User instructions:
-*step 1: import required libraries
-*step 2: read input data and specify input data path
+step 1: import required libraries
+step 2: read input data and specify input data path
 step 3: set flexibility levels in % for each cluster and mode of flexibility (i.e. DF/DR etc)
 step 4: set the parameters in tariff calculation module
 step 5: set the inconvenience cost in demand optimisation module
